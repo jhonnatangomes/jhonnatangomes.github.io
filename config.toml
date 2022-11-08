@@ -1,0 +1,12 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Jhonnatan Gomes'
+theme = "terminal"
+
+[params]
+  themeColor = "pink"
+
+[languages]
+  [languages.en]
+    [languages.en.params.logo]
+      logoText = "Jhonnatan Gomes"
